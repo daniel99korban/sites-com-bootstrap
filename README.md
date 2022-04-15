@@ -2,6 +2,5 @@
 web sites com framework bootstrap
 
 # Sobre
-
-Site feito durantes aulas do bootcamp da <a href="https://web.dio.me/" target="_blank">Digital inovation one</a>
-<a href="#">Ver web-site<a>
+Site feito durantes aulas do bootcamp da <a href="https://web.dio.me/">Digital inovation one</a><br>
+<a href="https://daniel99korban.github.io/sites-com-bootstrap/">Ver web-site</a>
