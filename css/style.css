@@ -1,0 +1,69 @@
+/*
+    neste mesmo projeto usar aquelas trasições paralax do site de animes. Exemplo: Quem Somos = iagens relacionada
+*/
+
+body{
+    background-image: url("../img/john-schnobrich-FlPc9_VocJ4-unsplash-scaled-2047x1152.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    margin-top: -100px;
+    background-color: rgba(255, 255, 255, 0.918);
+    /*overflow: hidden;*/
+    position: fixed;
+    width: 100%;
+}
+
+.navbar:hover{
+    transition: 0.3s;
+    background-color: white;
+}
+
+.shadow-bottom-bar{
+    box-shadow: 0px -5px 15px rgb(61, 61, 61);
+}
+
+#quemsomos{
+    padding: 2%;
+    margin-top: 100px;
+    color: white;
+    background-color: rgba(77, 77, 77, 0.884);
+}
+
+#parceiros{
+    padding: 2%;
+    color: white;
+    background-color: rgba(10, 166, 214, 0.884);
+}
+
+#servicos{
+    padding: 2%;
+    color: white;
+    background-color: rgba(204, 61, 180, 0.884);
+}
+
+.bg-footer{
+    color: gray;
+    background-color: white;
+}
+
+footer{
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+::-webkit-scrollbar{
+    width: 13px;
+}
+
+::-webkit-scrollbar-track{
+    background: rgb(25, 187, 228);
+}
+
+::-webkit-scrollbar-thumb{
+    background: white;
+    border-radius: 30px;
+}
